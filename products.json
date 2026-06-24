@@ -6,6 +6,41 @@
     "status": "safe",
     "target_process": "HD-Player.exe",
     "launch_exe": "",
-    "dll_url": "https://github.com/.../releases/download/v1/FFInternal.dll"
+    "dll_url": "https://github.com/sikibzzzzzzzza/vdafreefirecheats/releases/download/v1.0/FFInternal.dll",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/dQw4w9WgXcQ",
+        "thumb_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ff_preview_main.png"
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ff_screen1.png"
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ff_screen2.png"
+      },
+      {
+        "type": "video",
+        "url": "https://youtu.be/dQw4w9WgXcQ",
+        "thumb_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ff_preview_2.png"
+      }
+    ]
+  },
+  {
+    "name": "Free Fire Max",
+    "image": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ffmax.png",
+    "update": "2026-06-20",
+    "status": "at_own_risk",
+    "target_process": "HD-Player.exe",
+    "launch_exe": "",
+    "dll_url": "https://github.com/sikibzzzzzzzza/vdafreefirecheats/releases/download/v1.0/FFMax.dll",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ffmax_preview.png"
+      }
+    ]
   }
 ]
