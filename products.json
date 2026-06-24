@@ -6,7 +6,7 @@
     "status": "safe",
     "target_process": "HD-Player.exe",
     "launch_exe": "",
-    "dll_url": "https://github.com/sikibzzzzzzzza/vdafreefirecheats/vdaffinternal.dll",
+    "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/refs/heads/main/vdaffinternal.dll",
     "media": [
       {
         "type": "video",
@@ -35,7 +35,7 @@
     "status": "at_own_risk",
     "target_process": "HD-Player.exe",
     "launch_exe": "",
-    "dll_url": "https://github.com/sikibzzzzzzzza/vdafreefirecheats/releases/download/v1.0/FFMax.dll",
+    "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/refs/heads/main/vdaffexternal.dll",
     "media": [
       {
         "type": "image",
