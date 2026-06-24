@@ -6,7 +6,7 @@
     "status": "safe",
     "target_process": "HD-Player.exe",
     "launch_exe": "",
-    "dll_url": "https://github.com/sikibzzzzzzzza/vdafreefirecheats/releases/download/v1.0/FFInternal.dll",
+    "dll_url": "https://github.com/sikibzzzzzzzza/vdafreefirecheats/vdaffinternal.dll",
     "media": [
       {
         "type": "video",
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "name": "Free Fire Max",
+    "name": "Free Fire External",
     "image": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/main/assets/ffmax.png",
     "update": "2026-06-20",
     "status": "at_own_risk",
