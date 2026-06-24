@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Free Fire Internal",
+    "image": "https://raw.githubusercontent.com/.../ff.png",
+    "update": "2026-06-24",
+    "status": "safe",
+    "target_process": "HD-Player.exe",
+    "launch_exe": "",
+    "dll_url": "https://github.com/.../releases/download/v1/FFInternal.dll"
+  }
+]
