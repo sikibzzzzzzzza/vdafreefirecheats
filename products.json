@@ -7,39 +7,30 @@
     "target_process": "HD-Player.exe",
     "launch_exe": "",
     "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/refs/heads/main/vdaffinternal.dll",
-    "media": [
-      {
-        "type": "video",
-        "url": "https://youtu.be/dQw4w9WgXcQ",
-        "thumb_url": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg"
-      },
-      {
-        "type": "image",
-        "url": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg"
-      },
-      {
-        "type": "image",
-        "url": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg"
-      },
-      {
-        "type": "video",
-        "url": "https://youtu.be/dQw4w9WgXcQ",
-        "thumb_url": "https://cdn12.idcgames.com/storage/image/1258/free-new-logo/default.jpg"
-      }
-    ]
+    "media": []
   },
   {
     "name": "Free Fire External",
     "image": "https://sm.ign.com/ign_in/screenshot/default/image006-38su_vhs7.jpg",
     "update": "2026-06-20",
-    "status": "at_own_risk",
+    "status": "safe",
     "target_process": "HD-Player.exe",
     "launch_exe": "",
     "dll_url": "https://raw.githubusercontent.com/sikibzzzzzzzza/vdafreefirecheats/refs/heads/main/vdaffexternal.dll",
+    "media": []
+  },
+  {
+    "name": "Free Cheat",
+    "image": "https://i.ytimg.com/vi/nt3wiz0dgtU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChNzupk89F66rhl5F67YYbj2ycEQ",
+    "update": "2026-07-18",
+    "status": "safe",
+    "target_process": "HD-Player.exe",
+    "launch_exe": "",
+    "dll_url": "https://raw.githubusercontent.com/seuusuario/seurepositorio/main/freecheat.dll",
     "media": [
       {
         "type": "image",
-        "url": "https://sm.ign.com/ign_in/screenshot/default/image006-38su_vhs7.jpg"
+        "url": "https://i.ytimg.com/vi/nt3wiz0dgtU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChNzupk89F66rhl5F67YYbj2ycEQ"
       }
     ]
   }
